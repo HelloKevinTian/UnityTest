@@ -12,7 +12,7 @@ public class Slerp : MonoBehaviour {
 
 	private float startTime;
 
-	private Vector3 offset = new Vector3(-20,0,0);
+	private Vector3 offset = new Vector3(-2,0,0);
 
 	void Start() {
 		startTime = 0;
